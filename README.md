@@ -1,9 +1,8 @@
 Project
 ======================================
 This is an N-Body simulation implemented with the Barnes-Hut algorithm. 
-
-![galaxies](https://github.com/eleadufresne/Barnes-Hut-N-Body/assets/74742695/9bc2def4-7e80-43ec-badb-3a81153b44f3)
-![spiralgalaxy](https://github.com/eleadufresne/Barnes-Hut-N-Body/assets/74742695/9b51b6bd-b549-43d1-8eba-1bb689d641f4)
+![galaxies](https://github.com/eleadufresne/Barnes-Hut-N-Body/assets/74742695/71faddc7-3735-4bef-adee-2123081d047b)
+![spiralgalaxy](https://github.com/eleadufresne/Barnes-Hut-N-Body/assets/74742695/eb514d4b-2d26-4a74-b4c6-733fdc737400)
 
 Interface
 ======================================
