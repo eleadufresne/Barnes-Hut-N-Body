@@ -31,13 +31,6 @@ _Formated input files are provided in the `resource` folder._
 Setting up the development environment
 ======================================
 
-_IMPORTANT!_ In this course, your code must be cross-platform. Follow these guidelines.
-
-*   Always use CMake to perform an “out-of-source” build, which means that the binary files will not be in the same directory as the source files.
-*   When adding new `.cpp` and `.h` files, always add them manually to the `src` folder and rerun CMake. Do not use the “add” feature of your IDE to add files to your project.
-*   Do not use system-specific headers and libraries (e.g., `windows.h`).
-*   In your code, use forward slashes instead of back slashes for paths (`/` instead of `\`).
-
 First, download (clone) the repository, and then extract the zip file to a suitable folder. Then go to the section corresponding to your development environment.
 
 *   Windows
