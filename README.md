@@ -1,6 +1,7 @@
 Project
 ======================================
-This is an N-Body simulation implemented with the Barnes-Hut algorithm. 
+**This is an N-Body simulation implemented with the Barnes-Hut algorithm.** The Barnes-Hut algorithm is a method that lowers computational costs to O(N log(N)). It operates under the assumption that when a group of bodies is a sufficient distance away from a body, the gravitational force they exert on it can be estimated by using the center of mass of the group. This project explores the modelization of star clusters by quad-trees. The practicality of this method comes from its utilization of tree properties, mainly their efficient traversal, to insert particles, compute interactions and apply forces. <br />
+
 ![galaxies](https://github.com/eleadufresne/Barnes-Hut-N-Body/assets/74742695/71faddc7-3735-4bef-adee-2123081d047b)
 ![spiralgalaxy](https://github.com/eleadufresne/Barnes-Hut-N-Body/assets/74742695/eb514d4b-2d26-4a74-b4c6-733fdc737400)
 
