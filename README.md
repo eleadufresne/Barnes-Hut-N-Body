@@ -1,4 +1,4 @@
-Project
+Overview
 ======================================
 **This is an N-Body simulation implemented with the Barnes-Hut algorithm.** The Barnes-Hut algorithm is a method that lowers computational costs to O(N log(N)). It operates under the assumption that when a group of bodies is a sufficient distance away from a body, the gravitational force they exert on it can be estimated by using the center of mass of the group. This project explores the modelization of star clusters by quad-trees. The practicality of this method comes from its utilization of tree properties, mainly their efficient traversal, to insert particles, compute interactions and apply forces. <br />
 
@@ -260,5 +260,5 @@ Run with Makefile
 
 ### Credits
 
-  * These instructions were taken from Paul Kry's computer graphics course at McGill University.
+  * The set up and run instructions were taken from Paul Kry's computer graphics course at McGill University.
   * The data used for the input files is from Adam Chin and Rohan Kapadia '06.
